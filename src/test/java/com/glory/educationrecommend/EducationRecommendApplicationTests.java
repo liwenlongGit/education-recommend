@@ -1,0 +1,13 @@
+package com.glory.educationrecommend;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EducationRecommendApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
